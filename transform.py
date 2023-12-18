@@ -10,7 +10,7 @@ import os
 import pandas as pd
 import numpy as np
 from multiprocessing import Pool, cpu_count
-from utils import *
+from utils import transform_example
 from mpi4py import MPI
 import pandas as pd
 
